@@ -29,6 +29,7 @@ body {
 #description p {
     float: right;
     padding-top: 60px;
+    text-align: left;
 }
 
 #create-profile {
